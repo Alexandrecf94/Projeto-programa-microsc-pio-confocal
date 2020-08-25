@@ -1,4 +1,4 @@
-# Projeto-microscopio-confocal
+# Projeto-microscópio-confocal
 
 Esse repositório tem como finalidade desenvolver a configuração básica de um microscópio confocal. A microscopia confocal oferece vantagens não disponíveis na microscopia óptica tradicional, possibilitando estudos mais detalhados. 
 
